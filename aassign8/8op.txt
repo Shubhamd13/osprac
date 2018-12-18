@@ -1,0 +1,32 @@
+shubham@shubham:~/myos/aassign8$ ./server
+shmid=1114120
+
+enter the text
+Hello from server
+
+enter the text
+can you hear me?
+
+enter the text
+hope you're fine.
+
+enter the text
+bye
+
+enter the text
+^C
+shubham@shubham:~/myos/aassign8$ 
+
+
+shubham@shubham:~/myos/aassign8$ ./client
+
+Hello from server
+
+can you hear me?
+
+hope you're fine
+
+hope you're fine.
+^C
+shubham@shubham:~/myos/aassign8$ 
+

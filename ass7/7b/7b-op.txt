@@ -1,0 +1,17 @@
+shubham@shubham:~/myos/ass7/7b$ ./7b
+Enter a string:hi.how are you.
+
+ total characters=11
+ total words=4
+
+ total lines=2
+�shubham@shubham:~/myos/ass7/7b$ 
+
+
+shubham@shubham:~/myos/ass7/7b$ ./7b1
+hi.how are you.
+ total characters=11
+ total words=4
+
+ total lines=2
+shubham@shubham:~/myos/ass7/7b$

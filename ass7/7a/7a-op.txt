@@ -1,0 +1,9 @@
+shubham@shubham:~/myos/ass7/7a$ gcc 7-a.c
+7-a.c: In function ‘main’:
+7-a.c:87:2: warning: implicit declaration of function ‘wait’; did you mean ‘main’? [-Wimplicit-function-declaration]
+  wait();
+  ^~~~
+  main
+shubham@shubham:~/myos/ass7/7a$ ./a.out
+hi im ramesh
+shubham@shubham:~/myos/ass7/7a$ 
